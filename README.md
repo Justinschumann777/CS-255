@@ -1,7 +1,5 @@
 # CS-255
-Our client DriverPass desires a better working system for their website. The system that they desire should allow users to create an account, take practice tests, choose a package, sign up for online classes,
-
-And make an appointment for a driving lesson with an instructor. 
+Our client DriverPass desires a better working system for their website. The system is intended to offer the better skills of driving students, hoping to pass the DMV driving test to get a license. The desire system should allow users to create an account, take practice tests, choose a package, sign up for online classes, and make an appointment for a driving lesson with an instructor. 
 
 I really believe that I did well explaining what the system needs. I think I can explain functional requirements well, such as users creating accounts, choosing packages and making appointments. And nonfunctional 
 
